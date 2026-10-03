@@ -12,10 +12,10 @@ window.SCANLON_CONFIG = {
   //    one fixed price = the deposit amount below). Paste the link here.
   //    Leave blank and the site still works — bookings come in by email
   //    and Brian sends the deposit link himself after the phone call.
-  depositLink: "",
+  depositLink: "https://buy.stripe.com/test_aFa5kF1q02sA6fc4Gj5J600",
 
   // 3) Deposit amount in dollars, e.g. 100 (must match the deposit link).
   //    Leave as null until Brian picks a number; the site will say
   //    "confirmed by phone" instead of showing an amount.
-  depositAmount: null
+  depositAmount: 100
 };
