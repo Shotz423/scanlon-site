@@ -6,7 +6,7 @@ window.SCANLON_CONFIG = {
   // 1) Booking emails. Get a free key at https://web3forms.com
   //    (enter scanlonfuneralservices366@gmail.com, they email you the key).
   //    Paste it between the quotes.
-  web3formsKey: "51dfa2eb-3b3c-4d67-b376-583fb79cf095",
+  web3formsKey: "6e12cd36-d4cb-4194-ac84-abd207b718ac",
 
   // 2) Stripe deposit link (Stripe Dashboard → Payment Links → New,
   //    one fixed price = the deposit amount below). Paste the link here.
